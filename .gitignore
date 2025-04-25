@@ -92,4 +92,5 @@ ENV/
 
 # Pyenet specific files
 enet.c
-enet/
+# maybe with submodules things are different...
+#enet/
